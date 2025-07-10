@@ -17,7 +17,7 @@ This project demonstrates how to configure Amazon Q CLI to work with a FastMCP M
 
 ### 1. Install Amazon Q CLI
 
-Follow the official installation guide:
+Follow the installation guide:
 - **Reference**: [Installing Amazon Q Developer CLI](https://dev.to/aws/the-essential-guide-to-installing-amazon-q-developer-cli-on-windows-lmh)
 
 ### 2. Create Virtual Environment
